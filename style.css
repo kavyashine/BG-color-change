@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    padding: 5px;
+    background: #eee;
+}
+.box a{
+    width: 40px;
+    height: 40px;
+    float: left;
+    text-indent: -9999px;
+    margin: 5px;
+    cursor: pointer;
+}
+#red{
+    background: red;
+}
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#pink{
+    background: pink;
+}
+#purple{
+    background: purple;
+}
+#yellow{
+    background: yellow;
+}
+#ivory{
+    background: ivory;
+}
+#brown{
+    background: brown;
+}
+#violet{
+    background: violet;
+}
+#peachpuff{
+    background: peachpuff;
+}
+#lightblue{
+    background: lightblue;
+}
+#orange{
+    background: orange;
+}
+#tomato{
+    background: tomato;
+}
+#gray{
+    background: gray;
+}
+#black{
+    background: black;
+}
+#MediumSeaGreen{
+    background: MediumSeaGreen;
+}
+#chocolate{
+    background: chocolate;
+}
+#cyan{
+    background: cyan;
+}
+#crimson{
+    background: crimson;
+}
+#indianred{
+    background: indianred;
+}
+#indigo{
+    background: indigo;
+}
+#lawngreen{
+    background: lawngreen;
+}
+#olive{
+    background: olive;
+}
+#orchid{
+    background: orchid;
+}
+#navy{
+    background: navy;
+}
+
